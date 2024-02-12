@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\views"
+    ""
   ],
-  "SelectedNode": "\\views\\greetingsIndex.js",
+  "SelectedNode": "\\hello_express_app.js",
   "PreviewInSolutionExplorer": false
 }
